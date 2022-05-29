@@ -1,8 +1,8 @@
 # Work Day Schedule 
 
-link to website: https://sqpr99.github.io//
+link to website: https://sqpr99.github.io/work-day-schedule/
 <br>
-link to repo: https://github.com/SqPR99/
+link to repo: https://github.com/SqPR99/work-day-schedule
 
 Welcome to the work day schedule! This schedule will help you keep track of your work and any tasks you have throughout the day.
 <br>
